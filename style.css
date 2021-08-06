@@ -1,0 +1,47 @@
+.copy_right_footer {
+    position: fixed;
+    color: #bd03f5;
+    bottom: 0;
+    width: 100%;
+    background-color: #e1f3f8;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    font-weight: 600;
+    font-size: large;
+}
+
+span {
+    color: rgb(0, 47, 255);
+    font-size: 16px;
+    font-weight: 600;
+}   
+
+li img {
+    width: 200px;
+    border-radius: 20px;
+}
+
+.bob {
+    background: #e9fcff;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 6px 5px 18px rgb(154, 0, 185);
+}
+
+b {
+    color: purple;
+}
+
+
+
+h4 {
+    color: blueviolet;
+    font-weight: 700;
+    font-size: large;
+}
+body{
+    background-color: rgb(93, 255, 255);
+}
